@@ -5,16 +5,22 @@
 <p align="center">
   <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
        alt="Thumbnail 1" 
-       width="300" 
-       height="170">
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
   <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/publish/2.0_Thumbnail_2.png?raw=true" 
        alt="Thumbnail 2" 
-       width="300" 
-       height="170">
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
   <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/publish/2.0_Thumbnail_3.png?raw=true" 
        alt="Thumbnail 3" 
-       width="300" 
-       height="170">
+       width="640" 
+       height="360">
 </p>
 
 ---

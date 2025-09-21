@@ -35,7 +35,7 @@ While the website is fully functional, future improvements are planned, particul
 
 ### 🔧 Tech Stack
 
-### HTML5, CSS3, Bootstrap, JavaScript, jQuery, Parallax, Carousel, Lightbox, Weather API, Formspree, Font Awesome, GIF creation and implementation, SEO, Web Hosting, Domain Management, Browser Optimization, Responsive Design, Cross Platform Design, VS Code
+**HTML5, CSS3, Bootstrap, JavaScript, jQuery, Parallax, Carousel, Lightbox, Weather API, Formspree, Font Awesome, GIF creation and implementation, SEO, Web Hosting, Domain Management, Browser Optimization, Responsive Design, Cross Platform Design, VS Code.**
 
 ---
 
@@ -44,16 +44,22 @@ While the website is fully functional, future improvements are planned, particul
 <p align="center">
   <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
        alt="Thumbnail 1" 
-       width="300" 
-       height="170">
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
   <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/publish/2.0_Thumbnail_2.png?raw=true" 
        alt="Thumbnail 2" 
-       width="300" 
-       height="170">
+       width="640" 
+       height="360">
+</p>
+
+<p align="center">
   <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/publish/2.0_Thumbnail_3.png?raw=true" 
        alt="Thumbnail 3" 
-       width="300" 
-       height="170">
+       width="640" 
+       height="360">
 </p>
 
 ---
