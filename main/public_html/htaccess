@@ -1,0 +1,6 @@
+
+# HTID:17570986: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:17570986:
+RewriteCond %{HTTP_HOST} ^www\.pidris\.cf$
+RewriteRule ^/?$ "http\:\/\/pidris\.cf\/" [R=301,L]

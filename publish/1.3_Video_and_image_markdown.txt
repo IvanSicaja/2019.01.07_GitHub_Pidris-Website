@@ -1,0 +1,33 @@
+---
+
+### 📸 Project Snapshot
+
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true" 
+       alt="Thumbnail 1" 
+       width="300" 
+       height="170">
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true" 
+       alt="Thumbnail 2" 
+       width="300" 
+       height="170">
+  <img src="https://github.com/IvanSicaja/2019.01.07_GitHub_Pidris-Website/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.png?raw=true" 
+       alt="Thumbnail 3" 
+       width="300" 
+       height="170">
+</p>
+
+---
+
+### 🎥 Video Demonstration
+
+<p align="center">
+  <a href="https://youtu.be/_BfQDd57cEc">
+    <img src="https://img.youtube.com/vi/_BfQDd57cEc/0.jpg" 
+         alt="Watch the demo" 
+         width="640" 
+         height="1000">
+  </a>
+</p>
+
+---
